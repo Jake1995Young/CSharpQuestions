@@ -1,0 +1,10 @@
+// Create a Console App via terminal
+dotnet new console -o InterviewQuestions
+
+cd InterviewQuestions
+
+Link to InterviewQuestions
+https://ankitsharmablogs.com/csharp-coding-questions-for-technical-interviews/
+
+Run each solution by using the following command
+dotnet run
